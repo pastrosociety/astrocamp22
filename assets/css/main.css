@@ -2094,20 +2094,28 @@ input, select, textarea {
 
 		#logo h1 {
 			font-weight: 900;
-			text-transform: initial;
+			text-transform: inherit;
 			color: #fff;
-			font-size: 2em;
-			letter-spacing: 0.25em;
+			font-size: 3.5em;
+			letter-spacing: 0.0001em;
+		}
+		#logo h21 {
+			font-weight: 900;
+			text-transform: inherit;
+			margin: 1.25em 0 0 0;
+			color: #fff;
+			font-size: 1.5em;
+			letter-spacing: 0.0001em;
 		}
 
 		#logo p {
 			color: #eee;
 			color: rgba(255, 255, 255, 0.5);
-			text-transform: initial;
+			text-transform: inherit;
 			margin: 1.25em 0 0 0;
 			display: block;
-			letter-spacing: 0.2em;
-			font-size: 0.9em;
+			letter-spacing: 0.em;
+			font-size: 1.2em;
 		}
 
 /* Nav */
