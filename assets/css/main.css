@@ -2017,7 +2017,9 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background: #fff;
+			background: url("../../images/pic5.jpg") center center;
+			background-size: cover;
+			padding: 0;
 		}
 
 			.wrapper.style2 .title {
