@@ -2150,12 +2150,12 @@ input, select, textarea {
 					display: block;
 					color: #eee;
 					color: rgba(255, 255, 255, 0.75);
-					text-transform: uppercase;
+					text-transform: inherit;
 					text-decoration: none;
-					font-size: 0.7em;
-					letter-spacing: 0.25em;
-					height: 5em;
-					line-height: 5em;
+					font-size: 1.1em;
+					letter-spacing: 0.05em;
+					height: 4em;
+					line-height: 4em;
 					-moz-transition: all .25s ease-in-out;
 					-webkit-transition: all .25s ease-in-out;
 					-o-transition: all .25s ease-in-out;
