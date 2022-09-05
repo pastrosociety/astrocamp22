@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	line-height: 1;
+	line-height: 1;F
 }
 
 ol, ul {
@@ -2061,7 +2061,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner.jpg") center center;
+		background: url("../../images/pic5.jpg") center center;
 		background-size: cover;
 		padding: 0;
 	}
