@@ -38,7 +38,11 @@
 						images: {
 							'images/pic1.jpg': 'center',
 							'images/pic2.jpg': 'center',
-							'images/pic3.jpg': 'center'
+							'images/pic3.jpg': 'center',
+							'images/pic4.jpg': 'center',
+							'images/pic5.jpg': 'center',
+							'images/pic6.jpg': 'center',
+							'images/pic8.jpg': 'center'
 						},
 
 					// Delay.
